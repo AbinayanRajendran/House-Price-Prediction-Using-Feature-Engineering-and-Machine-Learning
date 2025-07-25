@@ -374,9 +374,9 @@ FullBath: Full bathrooms above grade
 
 HalfBath: Half baths above grade
 
-BedroomAbvGr: Bedrooms above grade (does NOT include basement bedrooms)
+Bedroom: Bedrooms above grade (does NOT include basement bedrooms)
 
-KitchenAbvGr: Kitchens above grade
+Kitchen: Kitchens above grade
 
 KitchenQual: Kitchen quality
 
